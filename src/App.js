@@ -1,8 +1,7 @@
-import { useState } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import DrinkPage from "./pages/DrinkPage";
-import Error from "./pages/Error";
-import MenuPage from "./pages/MenuPage";
+import DrinkPage from "../src/pages/DrinkPage";
+import Error from "../src/pages/Error";
+import MenuPage from "../src/pages/MenuPage";
 
 function App() {
   return (
