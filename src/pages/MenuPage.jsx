@@ -81,7 +81,7 @@ function MenuPage() {
       <section className="menu section">
         <div className="title">
           <h2>
-            <a className="logo" href="/">
+            <a className="logo" href="https://s1een.github.io/react-menu-app/">
               Our menu
             </a>
           </h2>
